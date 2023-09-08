@@ -1,3 +1,5 @@
+package session2;
+
 public class session2 {
     public static class Test {
     }
