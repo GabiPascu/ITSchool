@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Resolved conflicts" />
+    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Created session3 package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,13 +56,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Variables">
+    <configuration name="BinaryArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.BinaryArithmeticOperators" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.IncrementOperators" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.RelationalOperators" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.Variables" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="variabs" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ITSchoolv2" />
@@ -70,6 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.RelationalOperators" />
+        <item itemvalue="Application.IncrementOperators" />
+        <item itemvalue="Application.BinaryArithmeticOperators" />
         <item itemvalue="Application.variabs" />
       </list>
     </recent_temporary>
@@ -155,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694191010119</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created session2 package">
+      <option name="closed" value="true" />
+      <created>1694191696248</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694191696248</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created session3 package">
+      <option name="closed" value="true" />
+      <created>1694191861125</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694191861125</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +263,8 @@
     <MESSAGE value="new branch created" />
     <MESSAGE value="Updated Test class with a comment" />
     <MESSAGE value="Resolved conflicts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolved conflicts" />
+    <MESSAGE value="Created session2 package" />
+    <MESSAGE value="Created session3 package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created session3 package" />
   </component>
 </project>
