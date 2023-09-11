@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session3" />
+    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +20,12 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/session2" />
+    <option name="BRANCH" value="origin/session3" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="session3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,22 +56,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Variables">
+}</component>
+  <component name="RunManager" selected="Application.BinaryArithmeticOperators">
     <configuration name="BinaryArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.practice.BinaryArithmeticOperators" />
+      <option name="MAIN_CLASS_NAME" value="session3.challenges.BinaryArithmeticOperators" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.practice.*" />
+          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.challenges.CompoundAssignment" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.challenges.IncrementAndDecrement" />
+      <module name="ITSchoolv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session3.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,45 +119,25 @@
       </method>
     </configuration>
     <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.practice.RelationalOperators" />
+      <option name="MAIN_CLASS_NAME" value="session3.challenges.RelationalOperators" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.practice.*" />
+          <option name="PATTERN" value="session3.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.practice.Variables" />
-      <module name="ITSchoolv2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="session3.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="variabs" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ITSchoolv2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.RelationalOperators" />
-        <item itemvalue="Application.IncrementOperators" />
         <item itemvalue="Application.BinaryArithmeticOperators" />
-        <item itemvalue="Application.variabs" />
+        <item itemvalue="Application.RelationalOperators" />
+        <item itemvalue="Application.CompoundAssignment" />
+        <item itemvalue="Application.IncrementAndDecrement" />
+        <item itemvalue="Application.IncrementOperators" />
       </list>
     </recent_temporary>
   </component>
