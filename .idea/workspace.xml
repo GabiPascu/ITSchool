@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session3">
+    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session3 homework done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinaryArithmeticOperators">
+  <component name="RunManager" selected="Application.IntegerToRomans">
     <configuration name="BinaryArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session3.challenges.BinaryArithmeticOperators" />
       <module name="ITSchoolv2" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.practice.IncrementOperators" />
+    <configuration name="IntegerToRomans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.challenges.IntegerToRomans" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.practice.*" />
+          <option name="PATTERN" value="session3.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerToRomans" />
         <item itemvalue="Application.BinaryArithmeticOperators" />
         <item itemvalue="Application.RelationalOperators" />
         <item itemvalue="Application.CompoundAssignment" />
         <item itemvalue="Application.IncrementAndDecrement" />
-        <item itemvalue="Application.IncrementOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694197197600</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Session3 homework done">
+      <option name="closed" value="true" />
+      <created>1694462638285</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694462638285</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +288,7 @@
     <MESSAGE value="Created session2 package" />
     <MESSAGE value="Created session3 package" />
     <MESSAGE value="Session3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session3" />
+    <MESSAGE value="Session3 homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session3 homework done" />
   </component>
 </project>
