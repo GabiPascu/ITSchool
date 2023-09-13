@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="session3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,13 +65,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntegerToRomans">
-    <configuration name="BinaryArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.BinaryArithmeticOperators" />
+  <component name="RunManager" selected="Application.LoopPractice">
+    <configuration name="DecisionConstructs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.practice.DecisionConstructs" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompoundAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.CompoundAssignment" />
+    <configuration name="LoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.practice.LoopPractice" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.IncrementAndDecrement" />
+    <configuration name="MemoryReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.practice.MemoryReference" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRomans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.IntegerToRomans" />
+    <configuration name="StringMemoryReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.practice.StringMemoryReference" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.RelationalOperators" />
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.practice.TernaryOperator" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntegerToRomans" />
-        <item itemvalue="Application.BinaryArithmeticOperators" />
-        <item itemvalue="Application.RelationalOperators" />
-        <item itemvalue="Application.CompoundAssignment" />
-        <item itemvalue="Application.IncrementAndDecrement" />
+        <item itemvalue="Application.LoopPractice" />
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.DecisionConstructs" />
+        <item itemvalue="Application.StringMemoryReference" />
+        <item itemvalue="Application.MemoryReference" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694462638285</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Session3 homework done">
+      <option name="closed" value="true" />
+      <created>1694518239639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694518239639</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
