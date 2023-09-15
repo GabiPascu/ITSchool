@@ -6,6 +6,5 @@ public class Challenge16 {
 
         System.out.println(-number);
         System.out.println(-(++number));
-
     }
 }
