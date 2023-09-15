@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session3 homework done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session4 challenges 16/20" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="session3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,13 +63,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntegerToRomans">
-    <configuration name="BinaryArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.BinaryArithmeticOperators" />
+  <component name="RunManager" selected="Application.Challenge16">
+    <configuration name="Challenge13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge13" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompoundAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.CompoundAssignment" />
+    <configuration name="Challenge14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge14" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.IncrementAndDecrement" />
+    <configuration name="Challenge15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge15" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRomans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.IntegerToRomans" />
+    <configuration name="Challenge16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge16" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session4.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.challenges.RelationalOperators" />
+    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.IncrementOperators" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.challenges.*" />
+          <option name="PATTERN" value="session3.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntegerToRomans" />
-        <item itemvalue="Application.BinaryArithmeticOperators" />
-        <item itemvalue="Application.RelationalOperators" />
-        <item itemvalue="Application.CompoundAssignment" />
-        <item itemvalue="Application.IncrementAndDecrement" />
+        <item itemvalue="Application.Challenge16" />
+        <item itemvalue="Application.Challenge15" />
+        <item itemvalue="Application.Challenge14" />
+        <item itemvalue="Application.IncrementOperators" />
+        <item itemvalue="Application.Challenge13" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +252,39 @@
       <option name="project" value="LOCAL" />
       <updated>1694462638285</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Session3 homework done">
+      <option name="closed" value="true" />
+      <created>1694518239639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694518239639</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Session4 uploaded">
+      <option name="closed" value="true" />
+      <created>1694608039089</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694608039089</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Session4 challenges 7/20">
+      <option name="closed" value="true" />
+      <created>1694775454136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694775454136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Session4 challenges 16/20">
+      <option name="closed" value="true" />
+      <created>1694790703004</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694790703004</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +319,9 @@
     <MESSAGE value="Created session3 package" />
     <MESSAGE value="Session3" />
     <MESSAGE value="Session3 homework done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session3 homework done" />
+    <MESSAGE value="Session4 uploaded" />
+    <MESSAGE value="Session4 challenges 7/20" />
+    <MESSAGE value="Session4 challenges 16/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session4 challenges 16/20" />
   </component>
 </project>
