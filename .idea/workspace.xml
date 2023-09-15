@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session4 uploaded">
+    <list default="true" id="59920dd9-8c25-42d3-a1f1-c2e0e50f8b6f" name="Changes" comment="Session4 challenges 7/20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session3/practice/IncrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3/practice/IncrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session4/challenges/Challenge8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session4/challenges/Challenge8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +67,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Challenge7">
-    <configuration name="Challenge4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge4" />
+  <component name="RunManager" selected="Application.Challenge16">
+    <configuration name="Challenge13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge13" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge5" />
+    <configuration name="Challenge14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge14" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge6" />
+    <configuration name="Challenge15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge15" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge7" />
+    <configuration name="Challenge16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.challenges.Challenge16" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.practice.LoopPractice" />
+    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.practice.IncrementOperators" />
       <module name="ITSchoolv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session4.practice.*" />
+          <option name="PATTERN" value="session3.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge7" />
-        <item itemvalue="Application.Challenge6" />
-        <item itemvalue="Application.Challenge5" />
-        <item itemvalue="Application.LoopPractice" />
-        <item itemvalue="Application.Challenge4" />
+        <item itemvalue="Application.Challenge16" />
+        <item itemvalue="Application.Challenge15" />
+        <item itemvalue="Application.Challenge14" />
+        <item itemvalue="Application.IncrementOperators" />
+        <item itemvalue="Application.Challenge13" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694608039089</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Session4 challenges 7/20">
+      <option name="closed" value="true" />
+      <created>1694775454136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694775454136</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +316,7 @@
     <MESSAGE value="Session3" />
     <MESSAGE value="Session3 homework done" />
     <MESSAGE value="Session4 uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session4 uploaded" />
+    <MESSAGE value="Session4 challenges 7/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session4 challenges 7/20" />
   </component>
 </project>
