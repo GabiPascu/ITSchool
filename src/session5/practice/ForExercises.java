@@ -25,6 +25,7 @@ public class ForExercises {
     }
 
     public static void printFactorialOfNumber(int number) {
+
         if (number < 0) {
             System.out.println("Please enter a positive number");
             return;
