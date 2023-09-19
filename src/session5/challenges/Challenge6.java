@@ -9,7 +9,6 @@ public class Challenge6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int sum = 0;
-
         System.out.println("Enter numbers (enter -1 to calculate the sum):");
 
         int number;
