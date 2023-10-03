@@ -25,43 +25,56 @@ public class Professor {
     public String getFirstName() {
         return firstName;
     }
+
     public String getLastName() {
         return lastName;
     }
+
     public String getSex() {
         return sex;
     }
+
     public short getAge() {
         return age;
     }
+
     public LocalDate getBirthDate() {
         return birthDate;
     }
+
     public int getCNP() {
         return CNP;
     }
+
     public String getAddress() {
         return address;
     }
+
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
-    public void setLastName(String lastName){
+
+    public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-    public void setSex(String sex){
+
+    public void setSex(String sex) {
         this.sex = sex;
     }
-    public void setAge(short age){
+
+    public void setAge(short age) {
         this.age = age;
     }
-    public void setBirthDate(LocalDate birthDate){
+
+    public void setBirthDate(LocalDate birthDate) {
         this.birthDate = birthDate;
     }
-    public void setCNP(int CNP){
+
+    public void setCNP(int CNP) {
         this.CNP = CNP;
     }
-    public void setAddress(String address){
+
+    public void setAddress(String address) {
         this.address = address;
     }
 
