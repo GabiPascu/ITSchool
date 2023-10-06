@@ -1,4 +1,4 @@
-package session10.challenges.challenge_two;
+package session10.challenges.singlelevel_inheritance;
 
 public class Bicycle {
 
