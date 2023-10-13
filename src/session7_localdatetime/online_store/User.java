@@ -1,4 +1,4 @@
-package session7.online_store;
+package session7_localdatetime.online_store;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
