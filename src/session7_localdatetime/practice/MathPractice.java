@@ -1,4 +1,4 @@
-package session7.practice;
+package session7_localdatetime.practice;
 
 public class MathPractice {
 

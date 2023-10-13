@@ -1,0 +1,1 @@
+# Create a program that prompts the user to enter a sentence. The program should then prompt the user to replace all occurrences of the word "apple" with the word "orange" in the sentence. After the replacement, the modified sentence should be printed out.

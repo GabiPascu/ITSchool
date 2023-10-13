@@ -1,4 +1,4 @@
-package session7.challenges;
+package session7_localdatetime.challenges;
 
 import java.time.LocalDate;
 
