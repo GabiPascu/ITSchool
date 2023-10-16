@@ -1,4 +1,4 @@
-package session13_recap;
+package session13_recap.small_recap;
 
 import java.util.Scanner;
 

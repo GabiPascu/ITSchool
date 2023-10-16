@@ -1,4 +1,4 @@
-package session8.practice;
+package session8_lists.practice;
 
 import java.util.LinkedList;
 import java.util.List;
