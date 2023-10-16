@@ -1,4 +1,4 @@
-package session8.challenges;
+package session8_lists.challenges;
 
 import java.util.LinkedList;
 

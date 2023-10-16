@@ -1,6 +1,5 @@
-package session8.challenges;
+package session8_lists.challenges;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class challenge10 {
