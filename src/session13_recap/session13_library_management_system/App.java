@@ -6,14 +6,21 @@ public class App {
 
     public static void main(String[] args) {
         Library library = new Library();
-       System.out.println(library.display());
+//        System.out.println(library.display());
 
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.println("Please enter the book's name: ");
-//        String response = scanner.nextLine();
-//        System.out.println(library.searchByTitle(response,library.display()));
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please enter the book's name: ");
+        String response = scanner.nextLine();
 
-        library.add();
+        Book book = new Book("Percy Jackson", "Rick", 43);
+        System.out.println(library.searchByTitle(response, library.getBooks(book)));
+
+//        Book book = new Book("Percy Jackson", "Rick", 43);
+//        System.out.println(library.display());
+
+//        library.addBook(new Book("Percy Jackson", "Rick", 43));
+        System.out.println(library.getBooks(book));
+
     }
 }
 
