@@ -1,4 +1,4 @@
-package fitnessCenterChallenge.models;
+package fitness_center_challenge.models;
 
 import java.util.UUID;
 

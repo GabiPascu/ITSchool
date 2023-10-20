@@ -1,10 +1,8 @@
-package fitnessCenterChallenge;
+package fitness_center_challenge;
 
-import fitnessCenterChallenge.models.Activity;
-import fitnessCenterChallenge.models.FitnessClass;
-import fitnessCenterChallenge.models.Member;
-
-import java.util.UUID;
+import fitness_center_challenge.models.Activity;
+import fitness_center_challenge.models.FitnessClass;
+import fitness_center_challenge.models.Member;
 
 public class GymApp {
 
