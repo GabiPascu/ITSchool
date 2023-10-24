@@ -1,4 +1,4 @@
-package session15.practice.generics;
+package session15_hascode_and_enums.practice.generics;
 
 public class Box<T> {
 

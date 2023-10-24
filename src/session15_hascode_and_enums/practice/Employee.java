@@ -1,4 +1,4 @@
-package session15.practice;
+package session15_hascode_and_enums.practice;
 
 import java.util.Objects;
 
