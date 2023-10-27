@@ -26,6 +26,7 @@ public class MapPractice {
     private static Map<String, Integer> initializeMap() {
         Map<String, Integer> myMap = new HashMap<>();
         myMap.put("one", 1);
+        myMap.put("one", 4);
         myMap.put("two", 2);
         myMap.put("three", 3);
 

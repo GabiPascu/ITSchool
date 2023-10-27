@@ -1,0 +1,23 @@
+Personal information:
+- Full name: John Doe
+- Address: Wall Street, 29, USA
+- Phone number: 123-456-789
+- Email: johnDoe@john.com
+
+Objective:
+To expand my knowledge in Java development
+
+Education:
+- University Name: Oxford
+- Degree: Computer Science
+- Graduation date: 29.09.1999
+
+Work Experience:
+- Company name: IKEA
+- Job title: Software developer
+- Job Description: To evolve different apps which allows the user to have a much easier browsing experience.
+- Duration: 1 year
+
+Skills:
+- Communication skills
+- Java programming
