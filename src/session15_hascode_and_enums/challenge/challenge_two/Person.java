@@ -8,6 +8,7 @@ public class Person {
     private int age;
     private String email;
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

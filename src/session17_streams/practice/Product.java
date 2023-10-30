@@ -1,4 +1,4 @@
-package session17.practice;
+package session17_streams.practice;
 
 public class Product {
 
