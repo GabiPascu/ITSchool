@@ -1,4 +1,4 @@
-package session17.practice;
+package session17_streams.practice;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -25,11 +25,11 @@ public class StreamsPractice {
 //        printStringsLength(strings);
 //        printProductsPrice(products);
 //        printProductIncreasedPrices(products);
-//        printFlatMap(listOfLists);
+        printFlatMap(listOfLists);
 //        printSumOfNumbers(numbers);
 //        printSortedProductsByPrice(products);
 //        printProcessedNumbers(numbers);
-        printAnyMatchFruit(strings);
+//        printAnyMatchFruit(strings);
     }
 
     private static void printAnyMatchFruit(List<String> strings) {
