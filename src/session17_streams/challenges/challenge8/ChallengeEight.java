@@ -1,4 +1,4 @@
-package session17_streams.challenges.challenge_eight;
+package session17_streams.challenges.challenge8;
 
 import java.util.ArrayList;
 import java.util.Arrays;
