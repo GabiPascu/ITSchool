@@ -1,4 +1,4 @@
-package ro.itschool.project.services;
+package ro.itschool.project.test_mock_injection;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -9,6 +9,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import ro.itschool.project.models.dtos.UserDTO;
 import ro.itschool.project.models.entities.User;
 import ro.itschool.project.repositories.UserRepository;
+import ro.itschool.project.services.UserServiceImpl;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;

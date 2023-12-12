@@ -1,4 +1,4 @@
-package ro.itschool.project.test_mock_injection;
+package ro.itschool.project.unit_test;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
